@@ -7,5 +7,5 @@ echo $first > index.html
 cd A
 touch A.html
 chmod 777 A.html
-export second="<html><head><title>A</title></head><body><p>Welcome to A</p></body></html>"
+export second="<html><head><title>A</title></head><body><p>Welcome to A</p><p>I got wrecked</p></body></html>"
 echo $second > A.html
